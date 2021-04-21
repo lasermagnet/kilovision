@@ -1,0 +1,20 @@
+{
+  "name": "kilovision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasermagnet/kilovision.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasermagnet/kilovision/issues"
+  },
+  "homepage": "https://github.com/lasermagnet/kilovision#readme"
+}
